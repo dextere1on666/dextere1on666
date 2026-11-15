@@ -1,9 +1,9 @@
 {
   "payload": {
     "schema": 1,
-    "revision": 1,
-    "generatedAt": "2026-11-15T18:14:22+00:00",
+    "revision": 2,
+    "generatedAt": "2026-11-15T20:32:21+00:00",
     "bans": {}
   },
-  "signature": "EP0Qi7/SPn5Hli3Rp+K6mnPhKzon7dxPRgfNjGIYryPlfS9eIag3S1BUc+/RZbNj8HDgWJjtX277XwAfUaKlDw=="
+  "signature": "rJFRC+3m6CqFu7/4zya59ttwj3JAVcmjQWlXPYAmaG/uBGz4tRT5bVE/aaBrLghkx0KMqEWrGIs8Jh4JNY9MBA=="
 }
