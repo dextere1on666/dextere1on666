@@ -1,14 +1,9 @@
 {
   "payload": {
     "schema": 1,
-    "revision": 3,
-    "generatedAt": "2026-11-16T05:55:37+00:00",
-    "bans": {
-      "76561199544183623": {
-        "reason": "Читы",
-        "createdAt": "2026-11-16T05:55:33+00:00"
-      }
-    }
+    "revision": 4,
+    "generatedAt": "2026-11-16T05:56:20+00:00",
+    "bans": {}
   },
-  "signature": "i7XOeFXf+/duLsm2WwloPd8iyoab2Sa5+ExnFc+Kj8+P86itxGqSVE7NskIQITw6cqJOjoZdkzKy4xDHWsxCDg=="
+  "signature": "i0C6qKjyV5yuMquQa7Fl4yoMtILw4sOyJvMt9e2l3+r2jnSLHLAsW2FrQL2z+PvF38uZ6qtH63fkjIxu7oQQDw=="
 }
